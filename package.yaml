@@ -73,6 +73,7 @@ dependencies:
   - parallel >=3.2 && <3.3
   - parsec >=3.1.10
   - pattern-arrows >=0.0.2 && <0.1
+  - pretty >= 1.1
   - process >=1.2.0 && <1.7
   - protolude >=0.1.6 && <0.2.4
   - purescript-ast
@@ -110,6 +111,7 @@ library:
     - DeriveTraversable
     - DeriveGeneric
     - DerivingStrategies
+    - DeriveDataTypeable
     - EmptyDataDecls
     - FlexibleContexts
     - KindSignatures

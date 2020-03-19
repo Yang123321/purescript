@@ -1,0 +1,2 @@
+stack setup --setup-info-yaml http://mirrors.tuna.tsinghua.edu.cn/stackage/stack-setup.yaml
+make build
